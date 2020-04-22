@@ -1,4 +1,4 @@
-# instamojo-php
+# instamojo php Easiest Intigration 2020
 
 ![Tradeniti Instamojo PHP Script](http://3.bp.blogspot.com/-o0fjJbZw3I8/XqA6i3zh9cI/AAAAAAAA6QE/YYVKIOKBoSs_1RYyo1IJ40_8yic91JZ7gCK4BGAYYCw/s1600/git%2Bedit.png)
 
